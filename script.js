@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const alyaBirthday = new Date(2003, 3, 6); // Months are zero-indexed
 
   // Alya's birthday (6 April 2003)
-  const anivBirthday = new Date(2019, 8, 18); // Months are zero-indexed
+  const anivBirthday = new Date(2019, 8, 19); // Months are zero-indexed
 
   // Fungsi untuk memperbarui countdown ulang tahun setiap detik
   function updateBirthdayCountdown(birthday, elementId, name) {
